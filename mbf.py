@@ -1,7 +1,7 @@
 import platform,os,sys,time
 os.system("clear")
 print ("\x1b[1;92mFOLLOW FB GW DULU YA >_<")
-os.system("xdg-open https://www.facebook.com/inu.pembangkang.7")
+os.system("xdg-open https://www.facebook.com/profile.php?id=100078919720019")
 time.sleep(7)
 os.system("clear")
 print ("GITHUB GW JUGA ^_^")
