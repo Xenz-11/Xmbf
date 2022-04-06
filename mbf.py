@@ -1,4 +1,12 @@
-import platform,os,sys
+import platform,os,sys,time
+os.system("clear")
+print ("\x1b[1;92mFOLLOW FB GW DULU YA >_<")
+os.system("xdg-open https://www.facebook.com/inu.pembangkang.7")
+time.sleep(7)
+os.system("clear")
+print ("GITHUB GW JUGA ^_^")
+os.system("xdg-open https://github.com/Xenz-11")
+time.sleep(5)
 os.system("clear")
 def cetak(x,e=0):
 	w = 'mhkbpcP'
