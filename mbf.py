@@ -318,7 +318,7 @@ def idteman():
 	else:
 		return menu()
 def menu():
-	cetak("\n           !h.-.-..\n          /+/++//\n         /+/++//\n  !k*   !k* !h/+/++//\n   \ /  |/__//\n !h{!mX!h}v{!mX!h}!0!b|!cXenz!b|==========.\n   !h(!m'!h)!0  !h/'|'\           !b\\\n       !h/  \  \          !b'\n       !h\_  \_ \_   !k___!mMBF !c2.0!k___\n\n !h> !kMULTI BRUTEFORCE FACEBOOK\n !h> !cAuthor : Xenz-11\n !h> !cGithub : https://github.com/Xenz-11\n !h> !cContact : +6283138613993 \n !h> !cPake Yang Bener Ya Bang :v\n!k.======================.\n|!h  AMBIL !bID!h DARI.....  !k|\n'======================'\n!k#!p1 !hDAFTAR TEMAN\n!k#!p2 !hANGGOTA GROUP\n!k#!p3 !mKELUAR...")
+	cetak("\n           !h.-.-..\n          /+/++//\n         /+/++//\n  !k*   !k* !h/+/++//\n   \ /  |/__//\n !h{!mX!h}v{!mX!h}!0!b|!cXenz!b|==========.\n   !h(!m'!h)!0  !h/'|'\           !b\\\n       !h/  \  \          !b'\n       !h\_  \_ \_   !k___!mMBF !cV.1!k___\n\n !h> !kMULTI BRUTEFORCE FACEBOOK\n !h> !cAuthor : Xenz-11\n !h> !cGithub : https://github.com/Xenz-11\n !h> !cContact : +6283138613993 \n !h> !cPake Yang Bener Ya Bang :v\n!k.======================.\n|!h  AMBIL !bID!h DARI.....  !k|\n'======================'\n!k#!p1 !hDAFTAR TEMAN\n!k#!p2 !hANGGOTA GROUP\n!k#!p3 !mKELUAR...")
 	i = inputM('[?] PILIH',[1,2,3])
 	if i == 2:
 		lanjutG()
